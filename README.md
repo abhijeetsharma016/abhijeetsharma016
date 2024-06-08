@@ -12,7 +12,7 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-sharma-229406252) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA07A.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/abhijeetsharma016/)
-[![GeekForGeeks](https://img.shields.io/badge/GeekForGeeks-%2300BFFF.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abhijeet016/)
+
 
 
 
