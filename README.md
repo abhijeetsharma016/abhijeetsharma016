@@ -1,22 +1,19 @@
 # 💫 About Me:
 ## About Me
 
-👋 Hi there! I'm Abhijeet Sharma, a passionate B.Tech Computer Science student at SRM University (Class of 2026). I'm enthusiastic about Android app development using Kotlin and love diving into challenging data structures and algorithms problems. You can find me on LeetCode as `abhijeetsharma016`.
+👋 Hi there! I'm Abhijeet Sharma, a passionate B.Tech Computer Science student at SRM University (Class of 2026). I'm enthusiastic about Android app development using Kotlin and love diving into challenging data structures and algorithm problems. You can find me on LeetCode as `abhijeetsharma016`.
 
 ### What I Do:
 
 - 📱 Android Development: Crafting elegant and user-friendly mobile apps.
 - 💡 Problem Solving: Solving algorithmic puzzles and honing my coding skills.
 - 🌟 Hackathons: As a member of the HackHound Dev team, I've participated in and even organized HackHound 2.0, a national-level hackathon.
+  
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-sharma-229406252) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA07A.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/abhijeetsharma016/)
+[![GeekForGeeks](https://img.shields.io/badge/GeekForGeeks-%2300BFFF.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abhijeet016/)
 
-### Let's Connect:
-
-- 📧 Feel free to drop me an email at abhijeetsharma16102004@gmail.com.
-- 🌐 Connect with me on LinkedIn: Abhijeet Sharma
-- 📚 Check out my LeetCode profile: abhijeetsharma016
-- 🧠 Explore my GeekforGeeks contributions: abhijeet016
-
-Keep coding, stay curious, and make an impact! 🚀
 
 
 # 💻 Tech Stack:
